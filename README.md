@@ -1,0 +1,1 @@
+First example for Tailwindcss
